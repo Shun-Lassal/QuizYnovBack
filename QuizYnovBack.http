@@ -1,0 +1,29 @@
+@QuizYnovBack_HostAddress = http://localhost:5000
+
+GET {{QuizYnovBack_HostAddress}}
+Accept: application/json
+
+###
+GET {{QuizYnovBack_HostAddress}}/quiz
+ 
+###
+GET  {{QuizYnovBack_HostAddress}}/quiz/<id>
+ 
+###
+GET {{QuizYnovBack_HostAddress}}/quiz/<id>/questions
+##Récupère la liste des questions et des choix possibles
+ 
+###
+GET {{QuizYnovBack_HostAddress}}/participations
+ 
+###
+POST {{QuizYnovBack_HostAddress}}/participations
+##Créer une participation
+ 
+###
+GET {{QuizYnovBack_HostAddress}}/quiz/<id>/questions
+ 
+###
+GET {{QuizYnovBack_HostAddress}}/participations/<id>
+ 
+###

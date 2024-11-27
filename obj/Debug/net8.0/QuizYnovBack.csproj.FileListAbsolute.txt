@@ -1,0 +1,64 @@
+/Users/dylan/Documents/MASTERE 1/Full Stack/QuizYnov/QuizYnovBack/obj/Debug/net8.0/QuizYnovBack.csproj.AssemblyReference.cache
+/Users/dylan/Documents/MASTERE 1/Full Stack/QuizYnov/QuizYnovBack/obj/Debug/net8.0/QuizYnovBack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dylan/Documents/MASTERE 1/Full Stack/QuizYnov/QuizYnovBack/obj/Debug/net8.0/QuizYnovBack.AssemblyInfoInputs.cache
+/Users/dylan/Documents/MASTERE 1/Full Stack/QuizYnov/QuizYnovBack/obj/Debug/net8.0/QuizYnovBack.AssemblyInfo.cs
+/Users/dylan/Documents/MASTERE 1/Full Stack/QuizYnov/QuizYnovBack/obj/Debug/net8.0/QuizYnovBack.csproj.CoreCompileInputs.cache
+/Users/dylan/Documents/MASTERE 1/Full Stack/QuizYnov/QuizYnovBack/obj/Debug/net8.0/QuizYnovBack.MvcApplicationPartsAssemblyInfo.cs
+/Users/dylan/Documents/MASTERE 1/Full Stack/QuizYnov/QuizYnovBack/obj/Debug/net8.0/QuizYnovBack.MvcApplicationPartsAssemblyInfo.cache
+/Users/dylan/Documents/MASTERE 1/Full Stack/QuizYnov/QuizYnovBack/bin/Debug/net8.0/appsettings.Development.json
+/Users/dylan/Documents/MASTERE 1/Full Stack/QuizYnov/QuizYnovBack/bin/Debug/net8.0/appsettings.json
+/Users/dylan/Documents/MASTERE 1/Full Stack/QuizYnov/QuizYnovBack/bin/Debug/net8.0/QuizYnovBack
+/Users/dylan/Documents/MASTERE 1/Full Stack/QuizYnov/QuizYnovBack/bin/Debug/net8.0/QuizYnovBack.deps.json
+/Users/dylan/Documents/MASTERE 1/Full Stack/QuizYnov/QuizYnovBack/bin/Debug/net8.0/QuizYnovBack.runtimeconfig.json
+/Users/dylan/Documents/MASTERE 1/Full Stack/QuizYnov/QuizYnovBack/bin/Debug/net8.0/QuizYnovBack.dll
+/Users/dylan/Documents/MASTERE 1/Full Stack/QuizYnov/QuizYnovBack/bin/Debug/net8.0/QuizYnovBack.pdb
+/Users/dylan/Documents/MASTERE 1/Full Stack/QuizYnov/QuizYnovBack/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/dylan/Documents/MASTERE 1/Full Stack/QuizYnov/QuizYnovBack/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/dylan/Documents/MASTERE 1/Full Stack/QuizYnov/QuizYnovBack/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/dylan/Documents/MASTERE 1/Full Stack/QuizYnov/QuizYnovBack/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/dylan/Documents/MASTERE 1/Full Stack/QuizYnov/QuizYnovBack/obj/Debug/net8.0/staticwebassets.build.json
+/Users/dylan/Documents/MASTERE 1/Full Stack/QuizYnov/QuizYnovBack/obj/Debug/net8.0/staticwebassets.development.json
+/Users/dylan/Documents/MASTERE 1/Full Stack/QuizYnov/QuizYnovBack/obj/Debug/net8.0/staticwebassets/msbuild.QuizYnovBack.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/dylan/Documents/MASTERE 1/Full Stack/QuizYnov/QuizYnovBack/obj/Debug/net8.0/staticwebassets/msbuild.build.QuizYnovBack.props
+/Users/dylan/Documents/MASTERE 1/Full Stack/QuizYnov/QuizYnovBack/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.QuizYnovBack.props
+/Users/dylan/Documents/MASTERE 1/Full Stack/QuizYnov/QuizYnovBack/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.QuizYnovBack.props
+/Users/dylan/Documents/MASTERE 1/Full Stack/QuizYnov/QuizYnovBack/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/dylan/Documents/MASTERE 1/Full Stack/QuizYnov/QuizYnovBack/obj/Debug/net8.0/scopedcss/bundle/QuizYnovBack.styles.css
+/Users/dylan/Documents/MASTERE 1/Full Stack/QuizYnov/QuizYnovBack/obj/Debug/net8.0/QuizYnov.792441A5.Up2Date
+/Users/dylan/Documents/MASTERE 1/Full Stack/QuizYnov/QuizYnovBack/obj/Debug/net8.0/QuizYnovBack.dll
+/Users/dylan/Documents/MASTERE 1/Full Stack/QuizYnov/QuizYnovBack/obj/Debug/net8.0/refint/QuizYnovBack.dll
+/Users/dylan/Documents/MASTERE 1/Full Stack/QuizYnov/QuizYnovBack/obj/Debug/net8.0/QuizYnovBack.pdb
+/Users/dylan/Documents/MASTERE 1/Full Stack/QuizYnov/QuizYnovBack/obj/Debug/net8.0/QuizYnovBack.genruntimeconfig.cache
+/Users/dylan/Documents/MASTERE 1/Full Stack/QuizYnov/QuizYnovBack/obj/Debug/net8.0/ref/QuizYnovBack.dll
+/Users/shun/Documents/Projets/Dev/QuizYnov/QuizYnovBack/bin/Debug/net8.0/appsettings.Development.json
+/Users/shun/Documents/Projets/Dev/QuizYnov/QuizYnovBack/bin/Debug/net8.0/appsettings.json
+/Users/shun/Documents/Projets/Dev/QuizYnov/QuizYnovBack/bin/Debug/net8.0/QuizYnovBack
+/Users/shun/Documents/Projets/Dev/QuizYnov/QuizYnovBack/bin/Debug/net8.0/QuizYnovBack.deps.json
+/Users/shun/Documents/Projets/Dev/QuizYnov/QuizYnovBack/bin/Debug/net8.0/QuizYnovBack.runtimeconfig.json
+/Users/shun/Documents/Projets/Dev/QuizYnov/QuizYnovBack/bin/Debug/net8.0/QuizYnovBack.dll
+/Users/shun/Documents/Projets/Dev/QuizYnov/QuizYnovBack/bin/Debug/net8.0/QuizYnovBack.pdb
+/Users/shun/Documents/Projets/Dev/QuizYnov/QuizYnovBack/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/shun/Documents/Projets/Dev/QuizYnov/QuizYnovBack/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/shun/Documents/Projets/Dev/QuizYnov/QuizYnovBack/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/shun/Documents/Projets/Dev/QuizYnov/QuizYnovBack/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/shun/Documents/Projets/Dev/QuizYnov/QuizYnovBack/obj/Debug/net8.0/QuizYnovBack.csproj.AssemblyReference.cache
+/Users/shun/Documents/Projets/Dev/QuizYnov/QuizYnovBack/obj/Debug/net8.0/QuizYnovBack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shun/Documents/Projets/Dev/QuizYnov/QuizYnovBack/obj/Debug/net8.0/QuizYnovBack.AssemblyInfoInputs.cache
+/Users/shun/Documents/Projets/Dev/QuizYnov/QuizYnovBack/obj/Debug/net8.0/QuizYnovBack.AssemblyInfo.cs
+/Users/shun/Documents/Projets/Dev/QuizYnov/QuizYnovBack/obj/Debug/net8.0/QuizYnovBack.csproj.CoreCompileInputs.cache
+/Users/shun/Documents/Projets/Dev/QuizYnov/QuizYnovBack/obj/Debug/net8.0/QuizYnovBack.MvcApplicationPartsAssemblyInfo.cs
+/Users/shun/Documents/Projets/Dev/QuizYnov/QuizYnovBack/obj/Debug/net8.0/QuizYnovBack.MvcApplicationPartsAssemblyInfo.cache
+/Users/shun/Documents/Projets/Dev/QuizYnov/QuizYnovBack/obj/Debug/net8.0/staticwebassets.build.json
+/Users/shun/Documents/Projets/Dev/QuizYnov/QuizYnovBack/obj/Debug/net8.0/staticwebassets.development.json
+/Users/shun/Documents/Projets/Dev/QuizYnov/QuizYnovBack/obj/Debug/net8.0/staticwebassets/msbuild.QuizYnovBack.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/shun/Documents/Projets/Dev/QuizYnov/QuizYnovBack/obj/Debug/net8.0/staticwebassets/msbuild.build.QuizYnovBack.props
+/Users/shun/Documents/Projets/Dev/QuizYnov/QuizYnovBack/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.QuizYnovBack.props
+/Users/shun/Documents/Projets/Dev/QuizYnov/QuizYnovBack/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.QuizYnovBack.props
+/Users/shun/Documents/Projets/Dev/QuizYnov/QuizYnovBack/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/shun/Documents/Projets/Dev/QuizYnov/QuizYnovBack/obj/Debug/net8.0/scopedcss/bundle/QuizYnovBack.styles.css
+/Users/shun/Documents/Projets/Dev/QuizYnov/QuizYnovBack/obj/Debug/net8.0/QuizYnov.792441A5.Up2Date
+/Users/shun/Documents/Projets/Dev/QuizYnov/QuizYnovBack/obj/Debug/net8.0/QuizYnovBack.dll
+/Users/shun/Documents/Projets/Dev/QuizYnov/QuizYnovBack/obj/Debug/net8.0/refint/QuizYnovBack.dll
+/Users/shun/Documents/Projets/Dev/QuizYnov/QuizYnovBack/obj/Debug/net8.0/QuizYnovBack.pdb
+/Users/shun/Documents/Projets/Dev/QuizYnov/QuizYnovBack/obj/Debug/net8.0/QuizYnovBack.genruntimeconfig.cache
+/Users/shun/Documents/Projets/Dev/QuizYnov/QuizYnovBack/obj/Debug/net8.0/ref/QuizYnovBack.dll
